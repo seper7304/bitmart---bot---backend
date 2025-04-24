@@ -1,0 +1,1 @@
+// models/Bot.js placeholder
